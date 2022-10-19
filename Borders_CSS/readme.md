@@ -18,12 +18,13 @@
     }
     
 ## Just Top
-   {
-   border-block-start: 3px solid;
-   border-image-source: linear-gradient(90deg,rgb(63, 230, 41) 50%,rgb(155, 201, 31) );
-   border-image-slice: 1;
-   padding:  5px;
-   }
+     {
+    border-block-start: 3px solid;
+    border-image-source: linear-gradient(90deg,rgb(63, 230, 41) 50%,rgb(155, 201, 31) );
+    border-image-slice: 1;
+    padding:  5px;
+    }
+   
 
 ## Let and Top 
     {
