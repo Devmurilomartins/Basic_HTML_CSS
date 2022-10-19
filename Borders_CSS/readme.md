@@ -1,6 +1,7 @@
 # Efeitos de Bordas
-##
-.Basic {
+
+
+#Basic# {
     border: 5px solid;
     padding:  5px;
     border-image-source: linear-gradient(90deg,rgb(63, 230, 41) 50%,rgb(155, 201, 31) ) ;
@@ -8,14 +9,14 @@
     
 }
 
-.Basic-1{
+#Basic-1#{
     border: 10px solid;
     padding:  10px;
     border-image-source: linear-gradient(90deg,rgb(63, 230, 41) 50%,rgb(155, 201, 31) ) ;
     border-image-slice: 1 ;
     
 }
-.image-border-2{
+#Just Top#{
    border-block-start: 3px solid;
    border-image-source: linear-gradient(90deg,rgb(63, 230, 41) 50%,rgb(155, 201, 31) );
    border-image-slice: 1;
